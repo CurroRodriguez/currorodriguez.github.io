@@ -40,6 +40,10 @@ Here I try to embed a gist:
 
 <script src="https://gist.github.com/CurroRodriguez/c81beb6e8e7841e73d38.js"></script>
 
-Here I try to embed a partial gist:
+Here I try to embed a partial gist: (Doesn't work, keep trying)
 
 <script src="https://gist.github.com/CurroRodriguez/01a1b89b39a8e0ec390fda09b73a7794.js"></script>
+
+Here is a file from github:
+
+
