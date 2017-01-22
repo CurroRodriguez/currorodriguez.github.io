@@ -15,3 +15,10 @@ start by just using markdown:
 def do_something(a, b):
     return a + b
 ```
+
+This example specifies the language of the code:
+
+```python
+def do_something(a, b):
+    return a + b
+```
