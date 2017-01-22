@@ -1,6 +1,11 @@
 ---
 layout: post
-title: Testing Organizing Posts in Folders
+title: Testing Organizing Posts in folders
+category: added
+tags:
+    - foo
+    - bar
+    - zap
 ---
 
 I want to see if it is possible to keep the posts within folders, so they are
