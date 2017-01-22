@@ -22,3 +22,16 @@ This example specifies the language of the code:
 def do_something(a, b):
     return a + b
 ```
+
+Here is some C# code:
+
+```csharp
+public class MyClass
+{
+    public string Name {get;set;}
+    public int Add(int first, int second)
+    {
+        return first + second;
+    }
+}
+```
