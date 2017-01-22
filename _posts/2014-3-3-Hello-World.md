@@ -1,9 +1,7 @@
 ---
 layout: post
 title: You're up and running!
-categories:
-    - sample
-    - existing
+categories: [sample, existing]
 tags:
     - foo
     - bar
