@@ -8,7 +8,7 @@ theme_settings:
   title: Temporary Title
   avatar: avatar.jpg
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Temporary description for the blog" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -20,7 +20,7 @@ theme_settings:
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address: isaac_rodriguez@live.com
   behance:
   bitbucket:
