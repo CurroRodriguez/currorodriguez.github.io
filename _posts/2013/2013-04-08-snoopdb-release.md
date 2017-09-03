@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's New in the Civil 3D 2014 API
+title: Augusto Releases Snoop DB for 2014
 category: CivilDev
 tags:
     - c3d2014
